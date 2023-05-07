@@ -86,14 +86,17 @@ h3 {
     color: #11999e;
     font-family: 'Montserrat', sans-serif;
 }
+.group{
+    display: inline-block;
+}
 
 .bottom-cloud {
-    position: absolute;
+    position: relative;
     left: 200px;
 }
 
 .top-cloud {
-    position: absolute;
+    position: relative;
     right: 100px;
 }
 .btn {
